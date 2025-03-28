@@ -23,5 +23,8 @@
     "ej06": "node src/ej06.js",
     "ej07": "node src/ej07.js",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "currency-map-country": "^1.0.12"
   }
 }
